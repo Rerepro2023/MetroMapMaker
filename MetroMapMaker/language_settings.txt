@@ -1,1 +1,10 @@
 English
+French
+Simplified Chinese
+Traditional Chinese
+German
+Spanish
+European Portuguese
+Brazilian Portuguese
+Italian
+Korean
